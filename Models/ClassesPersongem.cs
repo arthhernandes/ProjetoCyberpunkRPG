@@ -16,35 +16,35 @@ namespace ProjetoCyberpunRPG.Models
         }
     }
 
-    public class HomemDeArmas : ClassePersonagem
+    public class Mercenario : ClassePersonagem
     {
-        public override string Nome => "Homem de Armas";
-        public override string Descricao => "Guerreiros treinados nas artes do combate.";
-        public override int DadoDeVida => 10;
-        public override List<string> Caracteristicas => new List<string> { "Uso de todas as armas e armaduras", "Especialização em Armas" };
+        public override string Nome => "Mercenário (Solo)";
+        public override string Descricao => "Especialistas em combate e segurança armada.";
+        public override int DadoDeVida => 10; 
+        public override List<string> Caracteristicas => new List<string> { "Sub-Derme Balística", "Proficiência com Armas Pesadas" };
     }
 
-    public class Mago : ClassePersonagem
+    public class Hacker : ClassePersonagem
     {
-        public override string Nome => "Mago";
-        public override string Descricao => "Estudiosos dos arcanos, portadores de magias.";
+        public override string Nome => "Hacker (Netrunner)";
+        public override string Descricao => "Capazes de fritar sistemas corporativos a distância.";
         public override int DadoDeVida => 4;
-        public override List<string> Caracteristicas => new List<string> { "Lançamento de Magias Arcanas", "Restrição de Armaduras pesadas" };
+        public override List<string> Caracteristicas => new List<string> { "Cyberdeck Neural Integrado", "Invasão de Sistemas" };
     }
 
-    public class Ladrao : ClassePersonagem
+    public class SamuraiDeRua : ClassePersonagem
     {
-        public override string Nome => "Ladrão";
-        public override string Descricao => "Especialistas em furtividade e armadilhas.";
-        public override int DadoDeVida => 6;
-        public override List<string> Caracteristicas => new List<string> { "Ataque Furtivo", "Desarmar Armadilhas" };
-    }
-
-    public class Clerigo : ClassePersonagem
-    {
-        public override string Nome => "Clérigo";
-        public override string Descricao => "Sacerdotes devotos que canalizam poder divino.";
+        public override string Nome => "Samurai de Rua";
+        public override string Descricao => "Assassinos com implantes focados em reflexos e lâminas.";
         public override int DadoDeVida => 8;
-        public override List<string> Caracteristicas => new List<string> { "Magias Divinas", "Afastar Mortos-Vivos" };
+        public override List<string> Caracteristicas => new List<string> { "Lâminas Mantis Embutidas", "Acelerador Sináptico" };
+    }
+
+    public class Atravessador : ClassePersonagem
+    {
+        public override string Nome => "Atravessador (Fixer)";
+        public override string Descricao => "Contrabandistas e negociantes do submundo.";
+        public override int DadoDeVida => 6;
+        public override List<string> Caracteristicas => new List<string> { "Acesso à Rede de Contrabando", "Lábia Aprimorada" };
     }
 }

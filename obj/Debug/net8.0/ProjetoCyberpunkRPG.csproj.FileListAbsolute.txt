@@ -1,0 +1,15 @@
+C:\Users\ARTHURHERNANDES\Documents\ProjetoCyberpunkRPG\bin\Debug\net8.0\ProjetoCyberpunkRPG.exe
+C:\Users\ARTHURHERNANDES\Documents\ProjetoCyberpunkRPG\bin\Debug\net8.0\ProjetoCyberpunkRPG.deps.json
+C:\Users\ARTHURHERNANDES\Documents\ProjetoCyberpunkRPG\bin\Debug\net8.0\ProjetoCyberpunkRPG.runtimeconfig.json
+C:\Users\ARTHURHERNANDES\Documents\ProjetoCyberpunkRPG\bin\Debug\net8.0\ProjetoCyberpunkRPG.dll
+C:\Users\ARTHURHERNANDES\Documents\ProjetoCyberpunkRPG\bin\Debug\net8.0\ProjetoCyberpunkRPG.pdb
+C:\Users\ARTHURHERNANDES\Documents\ProjetoCyberpunkRPG\obj\Debug\net8.0\ProjetoCyberpunkRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARTHURHERNANDES\Documents\ProjetoCyberpunkRPG\obj\Debug\net8.0\ProjetoCyberpunkRPG.AssemblyInfoInputs.cache
+C:\Users\ARTHURHERNANDES\Documents\ProjetoCyberpunkRPG\obj\Debug\net8.0\ProjetoCyberpunkRPG.AssemblyInfo.cs
+C:\Users\ARTHURHERNANDES\Documents\ProjetoCyberpunkRPG\obj\Debug\net8.0\ProjetoCyberpunkRPG.csproj.CoreCompileInputs.cache
+C:\Users\ARTHURHERNANDES\Documents\ProjetoCyberpunkRPG\obj\Debug\net8.0\ProjetoCyberpunkRPG.sourcelink.json
+C:\Users\ARTHURHERNANDES\Documents\ProjetoCyberpunkRPG\obj\Debug\net8.0\ProjetoCyberpunkRPG.dll
+C:\Users\ARTHURHERNANDES\Documents\ProjetoCyberpunkRPG\obj\Debug\net8.0\refint\ProjetoCyberpunkRPG.dll
+C:\Users\ARTHURHERNANDES\Documents\ProjetoCyberpunkRPG\obj\Debug\net8.0\ProjetoCyberpunkRPG.pdb
+C:\Users\ARTHURHERNANDES\Documents\ProjetoCyberpunkRPG\obj\Debug\net8.0\ProjetoCyberpunkRPG.genruntimeconfig.cache
+C:\Users\ARTHURHERNANDES\Documents\ProjetoCyberpunkRPG\obj\Debug\net8.0\ref\ProjetoCyberpunkRPG.dll
