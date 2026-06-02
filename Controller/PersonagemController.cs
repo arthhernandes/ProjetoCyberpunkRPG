@@ -1,4 +1,4 @@
-using ProjetoCyberpunRPG.Models;
+using ProjetoCyberpunkRPG.Models;
 using ProjetoCyberpunRPG.View;
 
 namespace ProjetoCyberpunRPG.Controller

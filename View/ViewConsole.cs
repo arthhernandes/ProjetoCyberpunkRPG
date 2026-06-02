@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-using ProjetoCyberpunRPG.Models;
+using ProjetoCyberpunkRPG.Models;
 
 namespace ProjetoCyberpunRPG.View
 {

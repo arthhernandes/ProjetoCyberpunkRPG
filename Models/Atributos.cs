@@ -1,4 +1,4 @@
-namespace ProjetoCyberpunRPG.Models
+namespace ProjetoCyberpunkRPG.Models
 {
     public class Atributos
     {

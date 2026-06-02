@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace ProjetoCyberpunRPG.Models
+namespace ProjetoCyberpunkRPG.Models
 {
     public abstract class ClassePersonagem
     {

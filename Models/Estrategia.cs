@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ProjetoCyberpunRPG.Models
+namespace ProjetoCyberpunkRPG.Models
 {
     public class EstrategiaClassica : IEstrategiaGeracaoAtributos
     {
